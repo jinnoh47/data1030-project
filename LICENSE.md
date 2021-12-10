@@ -64,5 +64,32 @@
 
 이용자는 공공누리의 이용허락의 조건 중 어느 하나라도 위반한 경우 이용허락이 자동으로 종료되며, 이용자는 즉시 공공저작물의 이용을 중단해야 합니다.
 
+#Use Terms Guide for Korea Open Government License (KOGL)
+
+On/Off-line sharing and use
+sharing and use through on/off-line possible
+Indication of the source
+Shall indicate the source of the work.
+※ The indication of the source shall not be used to misguide a third party as it is sponsored by public institutions or as it has special relationship with public institutions.
+Commercial Use Prohibition
+The works shall be used only for nonprofit purposes. However, it is possible to use public works for commercial purpose with special permissions.(Related with type2, 4)
+Change Prohibition
+It is prohibited to modify the work, or change it to create a secondary work.
+Display and Changes of the Use Terms
+User must indicate its source when using KOGL's work.
+The use terms of KOGL's work may be changed. However, the user can use the work without altering its purpose of use if the user used that work prior to the change of the use terms.
+
+Use Terms Violation
+Use permission is immediately terminated when the user violates the KOGL's Use Terms.
+If the user keeps using public works after violating the Use Terms, it establishes infringement of copyright which may charge the user criminal and/or civil charges.
+
+Exemption Clause for Public Institutions
+Public institutions do not guarantee the accuracy or the continuous service provision of public works.
+Also, public institutions and its employees shall not be responsible for any kind of damage or disadvantage that may arise by using public works.
+
+Others
+Use terms for KOGL may not be applied if the user has a special permission from the public institution that possesses the work.
+Users willing to utilize the intellectual property rights in addition to public institution's copyright shall get a separate permission from its service institution.
+
 ![](data/img_opentype01.jpg)
 
